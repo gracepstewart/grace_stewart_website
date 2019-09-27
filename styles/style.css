@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+  font-family: Times-new-roman;
+}
+h1{
+  color: red;
+}
+h2{
+  color: purple;
+}
+p{
+  color: black;
+}
+dl{
+  color: black;
+}
+dt{
+  color: red;
+}
+ul{
+  color: black;
+}
