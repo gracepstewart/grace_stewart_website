@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    font-family: Times-new-roman;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: black;
+}
+
+dl {
+    color: black;
+}
+
+dt {
+    color: green;
+}
+
+ul {
+    color: purple;
+}
