@@ -42,7 +42,18 @@ h3 {
 h5 {
     color: aquamarine;
 }
-
+div {
+  background: white;
+  border: 2px solid pink;
+  padding: 10px;
+  margin: 10px;
+}
+.positioned{
+  position: relative;
+  background: pink;
+  top: 0px;
+  left: 10px;
+}
 p {
     color: black;
 }
@@ -79,9 +90,8 @@ a:hover {
 }
 
 .fav {
-    float: right;
-    margin-left: 2000px;
-    width: 150px;
+    float: none;
+    width: 630px;
 }
 
 #wrapper {
@@ -104,4 +114,9 @@ a:hover {
     border: 20px black;
     width: 60%;
 
+}
+
+#nav{
+    background-color: lightpink;
+    margin:auto;
 }
